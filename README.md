@@ -14,6 +14,6 @@
 
 ### 🔗 Links
 *   **Personal GitHub:** [@Doble-2](https://github.com/Doble-2) *(Mi perfil principal)*
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/angeld2/)
 
 > `angel@fospuca:~$ exit`
