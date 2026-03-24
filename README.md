@@ -1,16 +1,19 @@
-## Hi there 👋
+# Angel Calderón
 
-<!--
-**AngelCalderon-Fospuca/AngelCalderon-Fospuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** en **Tecno Red** para **Fospuca**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Work & Stack
+
+*   **Frontend:** React / Next.js / TypeScript / Tailwind / Flutter / Astro.js .
+*   **Backend:** Python / MongoDB / PostgreSQL.
+*   **DevOps:** Docker / CI-CD.
+
+---
+
+### 🔗 Links
+*   **Personal GitHub:** [@Doble-2]([https://github.com/Doble-2]) *(Mi perfil principal)*
+*   **LinkedIn:** [://linkedin.com]([https://www.linkedin.com/in/angeld2/])
+
+> `angel@tecnored:~$ exit`
